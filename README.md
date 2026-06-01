@@ -138,10 +138,11 @@ Based on the evaluation metrics:
 - Feature Scaling
 - Batch Gradient Descent (BGD)
 - Stochastic Gradient Descent (SGD)
+- Mini-Batch Gradient Descent (MBGD)
 - Bias-Variance Tradeoff
 - Overfitting and Underfitting
 - Model Evaluation
-
+- 
 ---
 
 ⭐ Thank you for exploring this project! ⭐
